@@ -11,11 +11,13 @@
 :black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
 <br>
+
 > This repo serves as real estate for the storing and organization
-> of insensitive code, figures and reports from various bioinformatics
-> projects I've been a part of. I've placed emphasis on including tools
-> that I have developed, that are of high enough quality / practicality
-> that they may be useful for others!
+of insensitive code, figures and reports from various bioinformatics
+projects I've been a part of. I've placed emphasis on including tools
+that I have developed, that are of high enough quality / practicality
+that they may be useful for others!
+
 <br>
 
 &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:
