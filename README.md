@@ -1,12 +1,18 @@
-:sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox: :sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox:
-:sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox: :sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox:
+O       o O       o O       oO       o O       o O       oO       o O       o O       oO       o O       o O       o
+| O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o |
+| | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | |
+| o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O |
+o       O o       O o       Oo       O o       O o       Oo       O o       O o       Oo       O o       O o       O
 
-## James Topham, *BSc. (hon), MSc.*
-## Bioinformatician
-## Vancouver, B.C. (Canada)
+### James Topham, *BSc. (hon), MSc.*
+### Bioinformatician
+### Vancouver, B.C. (Canada)
 
-:sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox: :sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox:
-:sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox: :sheep: :elephant: :camel: :turtle: :goat: :rooster: :dog: :ram: :cow2: :tiger2: :rabbit2: :pig2: :ox:
+O       o O       o O       oO       o O       o O       oO       o O       o O       oO       o O       o O       o
+| O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o |
+| | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | |
+| o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O |
+o       O o       O o       Oo       O o       O o       Oo       O o       O o       Oo       O o       O o       O
 
 <br>
 
