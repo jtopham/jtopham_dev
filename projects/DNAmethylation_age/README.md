@@ -40,7 +40,6 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 
 <br>
 <br>
-![](https://github.com/jtopham/jtopham_dev/tree/master/projects/DNAmethylation_age/pipeline2.png)
-
+![](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/pipeline2.png "mAGE pipeline overview")
 
 
