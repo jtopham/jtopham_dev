@@ -40,6 +40,7 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 
 <br>
 <br>
-![](pipeline2.png "mAGE pipeline overview")
+![pipeline](pipeline2.png "mAGE pipeline overview")
 
+![pipeline](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/pipeline2.png?raw=true "mAGE pipeline overview")
 
