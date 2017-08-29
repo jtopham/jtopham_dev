@@ -1,4 +1,4 @@
-:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
+:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
@@ -6,10 +6,9 @@
 ### Bioinformatician
 ### Vancouver, B.C. (Canada)
 
-:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
+:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 <br>
 
 
