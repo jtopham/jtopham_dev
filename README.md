@@ -1,5 +1,5 @@
 
-<span style="color: #f2cf4a; font-family: Helvetica; font-size: 3em;">James Topham,</span> *BSc. (hon), MSc.*
+<span style="color: #f2cf4a; font-family: Helvetica; font-size: 8em;">James Topham,</span> *BSc. (hon), MSc.*
 ### Bioinformatician
 ### Vancouver, B.C. (Canada)
 
