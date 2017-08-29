@@ -1,18 +1,8 @@
-O       o O       o O       oO       o O       o O       oO       o O       o O       oO       o O       o O       o
-| O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o |
-| | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | |
-| o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O |
-o       O o       O o       Oo       O o       O o       Oo       O o       O o       Oo       O o       O o       O
 
-### James Topham, *BSc. (hon), MSc.*
+<span style="color: #f2cf4a; font-family: Helvetica; font-size: 3em;">James Topham,</span> *BSc. (hon), MSc.*
 ### Bioinformatician
 ### Vancouver, B.C. (Canada)
 
-O       o O       o O       oO       o O       o O       oO       o O       o O       oO       o O       o O       o
-| O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o || O   o | | O   o | | O   o |
-| | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | || | O | | | | O | | | | O | |
-| o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O || o   O | | o   O | | o   O |
-o       O o       O o       Oo       O o       O o       Oo       O o       O o       Oo       O o       O o       O
 
 <br>
 
