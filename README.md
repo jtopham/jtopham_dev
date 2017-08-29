@@ -24,7 +24,7 @@
 ## **Projects**
 <br>
 
--[DNA methylation and Ageing](KMT2D_hypermutation_andSig.md)
+-[DNA methylation and Ageing](https://github.com/jtopham/jtopham_dev/tree/master/projects/DNAmethylation_age/)
 
 > This was a bioinformatics rotation project I worked on,
 > inspired by Steve Horvath's work. Briefly, linear
