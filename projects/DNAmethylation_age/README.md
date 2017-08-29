@@ -38,3 +38,9 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 > parameters to be used within each fold of the outer 10-fold CV 
 
 
+<br>
+<br>
+![pipeline2.png]
+
+
+
