@@ -40,7 +40,7 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 
 <br>
 <br>
-![pipeline2.png]
+![](https://github.com/jtopham/jtopham_dev/tree/master/projects/DNAmethylation_age/pipeline2.png)
 
 
 
