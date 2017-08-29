@@ -24,7 +24,7 @@
 ## **Projects**
 <br>
 
--[DNA methylation and Ageing](https://github.com/jtopham/jtopham_dev/tree/master/projects/DNAmethylation_age/)
+[DNA methylation and Ageing](https://github.com/jtopham/jtopham_dev/tree/master/projects/DNAmethylation_age/)
 
 > This was a bioinformatics rotation project I worked on,
 > inspired by Steve Horvath's work. Briefly, linear
@@ -34,7 +34,7 @@
 
 <br>
 
--[xQTL Analysis Pipeline (SNP Explorer)](https://github.com/jtopham/jtopham_dev/tree/master/projects/SNP_explorer/)
+[xQTL Analysis Pipeline (SNP Explorer)](https://github.com/jtopham/jtopham_dev/tree/master/projects/SNP_explorer/)
 
 > This was a tool I created in bash / python / R to identify
 > quantitative trait loci (QTL) associated with several
@@ -45,14 +45,14 @@
 
 <br>
 
--[RNA-seq data analysis](KMT2D_hypermutation_andSig.md)
+[RNA-seq data analysis](KMT2D_hypermutation_andSig.md)
 
 > Simple R scripts utilized for performing differential 
 > expression analysis between two groups, using DESeq2
 
 <br>
 
--[ChIP-seq data analysis](KMT2D_hypermutation_andSig.md)
+[ChIP-seq data analysis](KMT2D_hypermutation_andSig.md)
 
 > Scripts and pipelines for the integrative analysis of ChIP
 > (Chromatin Immunoprecipitation) sequencing data. Emphasis
@@ -60,7 +60,7 @@
 
 <br>
 
--[ATAC-seq data analysis](KMT2D_hypermutation_andSig.md)
+[ATAC-seq data analysis](KMT2D_hypermutation_andSig.md)
 
 > Some resources I built towards facilitating the analysis of ATAC
 > (Assay for Transposase-Accessible Chromatin) sequencing data
@@ -69,7 +69,7 @@
 
 ### **Utilities**
 
--[Comprehensive GSEA tool](KMT2D_hypermutation_andSig.md)
+[Comprehensive GSEA tool](KMT2D_hypermutation_andSig.md)
 
 > This tool performs multiple hypergeometric tests to 
 > determine how significantly over-represented a list
@@ -81,7 +81,7 @@
 > user can filter these gene sets to smaller subsets
 > tailored to specific hypotheses
 
--[Circular heatmap maker](KMT2D_hypermutation_andSig.md)
+[Circular heatmap maker](KMT2D_hypermutation_andSig.md)
 
 > One of my favorite and most frequently used visualization
 > tools of my grad studies were circular heatmaps (see here).
@@ -93,6 +93,6 @@
 
 ### **Figures**
 
--[sis](httopham/Marra_Thesis/blob/master/scripts/TCGA_DEA_GSEA_analysis.R)
+[sis](httopham/Marra_Thesis/blob/master/scripts/TCGA_DEA_GSEA_analysis.R)
 
 
