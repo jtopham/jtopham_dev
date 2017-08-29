@@ -1,5 +1,6 @@
+:black_circle:	:black_circle:	:black_circle:	:black_circle:	:black_circle:	:black_circle:
 
-<span style="color: #f2cf4a; font-family: Helvetica; font-size: 8em;">James Topham,</span> *BSc. (hon), MSc.*
+### James Topham, *BSc. (hon), MSc.*
 ### Bioinformatician
 ### Vancouver, B.C. (Canada)
 
