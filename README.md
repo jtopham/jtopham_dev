@@ -12,16 +12,12 @@
 
 <br>
 
-#### This repo serves as real estate for the storing and organization
-of insensitive code, figures and reports from various bioinformatics
-projects I've been a part of. I've placed emphasis on including tools
-that I have developed, that are of high enough quality / practicality
-that they may be useful for others!
+#### This repo serves as real estate for the storing and organization of insensitive code, figures and reports from various bioinformatics projects I've been a part of. I've placed emphasis on including tools that I have developed, that are of high enough quality / practicality that they may be useful for others!
 
 <br>
 <br>
 
-&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:
+&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:
 
 
 ### **Projects**
