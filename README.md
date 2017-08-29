@@ -3,8 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Topham, *BSc. (hon), MSc.*
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bioinformatician
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vancouver, B.C. (Canada)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bioinformatician
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vancouver, B.C. (Canada)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_circle:
 
