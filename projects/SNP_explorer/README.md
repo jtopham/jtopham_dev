@@ -8,13 +8,31 @@ This project marked my first exposure to constructing a high-throughput pipeline
 
 The purpose of the SNP explorer pipeline is to identify xQTLs (eQTLs, mQTLs and aQTLs) given a list of SNPs as well as the respective data matrices (RNA-seq, DNA methylation and ChIP-seq). For all SNPs with all three types of QTLs, a [Bayesian network model](https://en.wikipedia.org/wiki/Bayesian_network) will be constructed using the R package *bnlearn*.
 
-The pipeline consists of 3 modules:
+The pipeline consists of a control panel and 3 modules:
+
+### [Control panel [bash]](https://github.com/jtopham/jtopham_dev/blob/master/projects/SNP_explorer/snp_explorer_cp.sh)
+
+> This script interactively parses user inputs for several parameters
+> such as filenames, window size in which to search for QTLs, and
+> significance thresholds to use
 
 ### [Module Zero [bash]](https://github.com/jtopham/jtopham_dev/blob/master/projects/SNP_explorer/snp_explorer_m0.sh)
 
+> This script serves in facilitating a threading process, in which the
+> input list of SNPs is split into 10 subsets which are processed in 
+> parallel
+
 ### [Module One [python]](https://github.com/jtopham/jtopham_dev/blob/master/projects/SNP_explorer/snp_explorer_m1.sh)
 
+> This script finds all types of QTLs within the user-specified 
+> window, and outputs intermediate lists of QTLs to local files
+
 ### [Module Two [R]](https://github.com/jtopham/jtopham_dev/blob/master/projects/SNP_explorer/snp_explorer_m2.sh)
+
+> Finally, this script collects all the discovered QTLs and, where
+> possible, constructs a bayesian network (BN) model for each SNP. The 
+> final output is a list of SNPs and their respective QTLs, the
+> significance levels of each, and the score of the best BN model
 
 <br>
 
