@@ -45,7 +45,7 @@
 
 <br>
 
-[RNA-seq data analysis](KMT2D_hypermutation_andSig.md)
+[RNA-seq data analysis](https://github.com/jtopham/jtopham_dev/tree/master/projects/RNAseq_analysis)
 
 > Simple R scripts utilized for performing differential 
 > expression analysis between two groups, using DESeq2
