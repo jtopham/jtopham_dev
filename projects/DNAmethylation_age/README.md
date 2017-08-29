@@ -14,7 +14,7 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 
 <br>
 
--[Data pre-processing script [R]](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/AD_DF_construction_PCA_residuals.R)
+[Data pre-processing script [R]](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/AD_DF_construction_PCA_residuals.R)
 
 > The first 10 principal components are removed in a general attempt to remove confounding factors (such 
 > as gender). For the methylation data, *residualization* is performed as an additional normalization 
@@ -27,7 +27,7 @@ During the third bioinformatics rotation during my grad studies, I had at my dis
 
 <br>
 
--[Main analysis script [R]](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/Mage_model.R)
+[Main analysis script [R]](https://github.com/jtopham/jtopham_dev/blob/master/projects/DNAmethylation_age/Mage_model.R)
 
 > The model is built off matched-normal ("healthy") data from 838 cancer patients (TCGA project).
 > Methylation data is quantile normalized using wateRmelon package's *betaqn()* function, and
