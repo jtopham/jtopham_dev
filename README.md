@@ -34,7 +34,7 @@
 
 <br>
 
--[xQTL Analysis Pipeline (SNP Explorer)](KMT2D_hypermutation_andSig.md)
+-[xQTL Analysis Pipeline (SNP Explorer)](https://github.com/jtopham/jtopham_dev/tree/master/projects/SNP_explorer/)
 
 > This was a tool I created in bash / python / R to identify
 > quantitative trait loci (QTL) associated with several
