@@ -15,7 +15,6 @@
 #### This repo serves as real estate for the storing and organization of insensitive code, figures and reports from various bioinformatics projects I've been a part of. I've placed emphasis on including tools that I have developed, that are of high enough quality / practicality that they may be useful for others!
 
 <br>
-<br>
 
 &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:&nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep: &nbsp;&nbsp; :sheep:
 
@@ -69,7 +68,7 @@
 
 ### **Utilities**
 
-[Comprehensive GSEA tool](KMT2D_hypermutation_andSig.md)
+[Comprehensive GSEA tool](https://github.com/jtopham/jtopham_dev/tree/master/utilities/GSEA)
 
 > This tool performs multiple hypergeometric tests to 
 > determine how significantly over-represented a list
