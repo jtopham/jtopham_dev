@@ -88,10 +88,3 @@
 > such plots on the fly, although more detailed tinkering of
 > the ggbio code is needed for renditions with more pizazz
 
-<br>
-
-### **Figures**
-
-[sis](httopham/Marra_Thesis/blob/master/scripts/TCGA_DEA_GSEA_analysis.R)
-
-
